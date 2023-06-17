@@ -1,6 +1,6 @@
 ## Olá! Me Chamo Carlos Manuel
 
-- 📌 Eu Estou Apena Estudando E Preticando Em Algums Projetos Reais Que Em Brave Estarão Em Produção
+- 📌 Eu Estou Apenas Estudando E Praticando Em Algums Projetos Reais Que Em Brave Estarão Em Produção
 - 📚 Eu Estou Estudando Node JS, Para BackEnd
 - 🤨 Pronomes: Ele/Dele
 - ⚡ Tenho Intesse Em  Muita Coisa, Iclusive Estudo Para Futuramente Ser FullStack, Gosto De Código, FrontEnt E Design
