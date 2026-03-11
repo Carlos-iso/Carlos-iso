@@ -2,35 +2,14 @@
 
 **Backend Developer | Node.js | APIs | SaaS | Automations**
 
-Sou um desenvolvedor focado em **Node.js e arquitetura backend**, criando **APIs, bots, automações e micro-SaaS**.
-Gosto de desenvolver projetos completos, desde a modelagem de dados até aplicações web e mobile.
-
-Atualmente estou trabalhando em:
-
-* 🚀 Desenvolvimento de **APIs REST escaláveis**
-* 🤖 **Bots e automações**
-* 📱 Aplicações **React Native**
-* 💼 Construção de **Micro SaaS**
-* 🧠 Estruturação e arquitetura de projetos
+Construo **APIs robustas**, **automações** e **micro-SaaS**. Gosto de trabalhar com arquitetura backend, integrações e apps completos (API + Web/Mobile).
+Atualmente focado em **Node.js, TypeScript, MongoDB** e **React Native (Expo)**.
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 Tech Stack
 
-<div>
-  <a href="https://github.com/Carlos-iso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-iso&show_icons=true&theme=dark&border_color=fff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-iso&layout=compact&theme=dark&border_color=fff"/>
-</div>
-
-<!-- ![](https://github-readme-activity-graph.vercel.app/graph?username=Carlos-iso&theme=github-dark) -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Carlos-iso&theme=github_dark)
-
----
-
-# 🚀 Tech Stack
-
-<div style="display: inline-block"><br>
+<div style="display:inline-block"><br/>
 
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
@@ -41,9 +20,6 @@ Atualmente estou trabalhando em:
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
 
-<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
 <img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 
@@ -53,7 +29,34 @@ Atualmente estou trabalhando em:
 
 ---
 
-# 🧠 Projetos em destaque
+## 📊 GitHub Stats
+
+<div>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Carlos-iso&show_icons=true&theme=dark&border_color=ffffff"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-iso&layout=compact&theme=dark&border_color=ffffff"/>
+</div>
+
+---
+
+## ⚡ Streak Stats
+
+<img src="https://streak-stats.demolab.com?user=Carlos-iso&theme=dark&border=ffffff"/>
+
+---
+
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Carlos-iso&theme=github-dark"/>
+
+<!--
+---
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Carlos-iso&theme=darkhub&no-frame=true&margin-w=15"/>
+---
+-->
+
+## 🧠 Projetos em destaque
 
 ### 🚗 AdRoad
 
@@ -81,25 +84,24 @@ Tecnologias:
 
 ---
 
-### 🤖 Bots e automações
+### 🤖 Bots e Automações
 
-Desenvolvimento de bots e integrações com APIs como:
+Criação de bots e ferramentas de automação para:
 
-* WhatsApp bots
-* Monitoramento automático
-* Scrapers e automações
-
----
-
-# 📈 Contribuições
-
-![snake gif](https://github.com/Carlos-iso/Carlos-iso/blob/output/github-contribution-grid-snake.svg)
+* WhatsApp
+* monitoramento de oportunidades
+* scrapers
+* integrações de APIs
 
 ---
 
-# 📫 Contato
+## 🐍 Contribution Snake
 
-<div>
+![snake gif](https://github.com/Carlos-iso/Carlos-iso/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+## 📫 Contato
 
 <a href="mailto:carlosdev2022@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -113,8 +115,6 @@ Desenvolvimento de bots e integrações com APIs como:
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</div>
-
 ---
 
-⭐ Sempre aberto a colaborar em projetos interessantes e criar novas soluções.
+⭐ Sempre aberto a colaborar em projetos interessantes e construir novas soluções.
