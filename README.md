@@ -1,84 +1,117 @@
-# Olá! Eu sou Carlos Manuel 👋
+# 👨‍💻 Carlos Manuel
 
-Desenvolvedor focado em **Node.js e desenvolvimento de sistemas backend**, com experiência na construção de **APIs, automações, bots e aplicações SaaS**.
+**Backend Developer | Node.js | APIs | SaaS | Automations**
 
-Gosto de criar projetos completos, desde a **arquitetura backend até aplicações web e mobile**, sempre buscando escrever código organizado, reutilizável e escalável.
+Sou um desenvolvedor focado em **Node.js e arquitetura backend**, criando **APIs, bots, automações e micro-SaaS**.
+Gosto de desenvolver projetos completos, desde a modelagem de dados até aplicações web e mobile.
 
-Atualmente estou focado em:
+Atualmente estou trabalhando em:
 
-- Desenvolvimento de **APIs com Node.js**
-- Construção de **Micro SaaS**
-- **Automações e bots**
-- Aplicações **mobile com React Native (Expo)**
-- Arquitetura e organização de projetos
+* 🚀 Desenvolvimento de **APIs REST escaláveis**
+* 🤖 **Bots e automações**
+* 📱 Aplicações **React Native**
+* 💼 Construção de **Micro SaaS**
+* 🧠 Estruturação e arquitetura de projetos
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div>
   <a href="https://github.com/Carlos-iso">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-iso&show_icons=true&icon_color=fff&border_color=fff&theme=dark">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlos-iso&layout=compact&border_color=fff&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carlos-iso&show_icons=true&theme=dark&border_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-iso&layout=compact&theme=dark&border_color=fff"/>
 </div>
 
 ---
 
-## 🚀 Tecnologias
+# 🚀 Tech Stack
 
-<div style="display: inline-block;"><br/>
+<div style="display: inline-block"><br>
 
-<img align="center" alt="html5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="CSS3" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 
-<img align="center" alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" alt="TypeScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
 
-<img align="center" alt="NodeJS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="Express" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
 
-<img align="center" alt="React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-<img align="center" alt="VueJS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 
-<img align="center" alt="MongoDB" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-<img align="center" alt="Firebase" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 
-<img align="center" alt="Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 
 </div>
 
 ---
 
-## 🧠 Projetos e Interesses
+# 🧠 Projetos em destaque
 
-Algumas áreas em que estou trabalhando atualmente:
+### 🚗 AdRoad
 
-- 📱 Aplicações **React Native**
-- 🌐 **APIs REST** com Node.js
-- 🤖 **Bots e automações**
-- 💼 **Micro SaaS**
-- 🔍 Ferramentas para **monitoramento e automação de oportunidades de trabalho**
+Plataforma que conecta **motoristas de aplicativo e anunciantes** para exibição de anúncios em veículos.
+
+Tecnologias:
+
+* Node.js
+* MongoDB
+* React Native (Expo)
+* APIs REST
 
 ---
 
-## 📫 Contato
+### 🎬 Auto Video Cutter SaaS
 
-<div style="display: inline-block;">
+Ferramenta SaaS para **dividir vídeos automaticamente em partes iguais**.
+
+Tecnologias:
+
+* Node.js
+* Express
+* FFmpeg
+* Frontend web
+
+---
+
+### 🤖 Bots e automações
+
+Desenvolvimento de bots e integrações com APIs como:
+
+* WhatsApp bots
+* Monitoramento automático
+* Scrapers e automações
+
+---
+
+# 📈 Contribuições
+
+![snake gif](https://github.com/Carlos-iso/Carlos-iso/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 📫 Contato
+
+<div>
 
 <a href="mailto:carlosdev2022@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/carlosmanueldev">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/invites/contact/?i=sxjeyl3m437m&utm_content=rfmxlr">
-<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-⭐ Sempre aberto a colaborar em projetos interessantes e aprender novas tecnologias.
+⭐ Sempre aberto a colaborar em projetos interessantes e criar novas soluções.
