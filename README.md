@@ -1,40 +1,33 @@
 # 👨‍💻 Carlos Manuel
 
-**Backend Developer | Node.js | APIs | SaaS | Automations**
+**Backend Developer | APIs · Mobile · SaaS · Pagamentos · Automações**
 
-Construo **APIs robustas**, **automações** e **micro-SaaS**. Gosto de trabalhar com arquitetura backend, integrações e apps completos (API + Web/Mobile).
-Atualmente focado em **Node.js, TypeScript, MongoDB** e **React Native (Expo)**.
+Construo desde **APIs e sistemas de autenticação** até **apps mobile completos**, **marketplaces com pagamento** e **ferramentas CLI**.
+Gosto de pegar projetos do zero e levar ao produto funcional — backend, mobile e integração, tudo junto.
 
 ---
 
 ## 🚀 Tech Stack
 
-<div style="display:inline-block"><br/>
-
-<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-
-<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
-
-<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
-
-<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
-
-<img align="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-
-</div>
+| | |
+|---|---|
+| **Linguagens** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) |
+| **Backend & APIs** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) |
+| **Banco de Dados** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
+| **Mobile** | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white) |
+| **Pagamentos** | ![Lightning Network](https://img.shields.io/badge/Lightning_Network-F7931A?style=flat&logo=bitcoin&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white) |
+| **Infra & Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
 
 ---
 
+<!--
 ## 📊 GitHub Stats
 
 <div>
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Carlos-iso&show_icons=true&theme=dark&border_color=ffffff"/>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlos-iso&layout=compact&theme=dark&border_color=ffffff"/>
 </div>
+-->
 
 ---
 
@@ -48,50 +41,45 @@ Atualmente focado em **Node.js, TypeScript, MongoDB** e **React Native (Expo)**.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Carlos-iso&theme=github-dark"/>
 
-<!--
 ---
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Carlos-iso&theme=darkhub&no-frame=true&margin-w=15"/>
----
--->
 
 ## 🧠 Projetos em destaque
 
-### 🚗 AdRoad
+### 🐾 AmigoPet
 
-Plataforma que conecta **motoristas de aplicativo e anunciantes** para exibição de anúncios em veículos.
+Marketplace de **adoção responsável de pets** com fluxo completo de compra, pagamento e gestão de abrigos.
 
 Tecnologias:
 
-* Node.js
+* Node.js + TypeScript
 * MongoDB
 * React Native (Expo)
-* APIs REST
+* APIs REST + integração de pagamento
 
 ---
 
-### 🎬 Auto Video Cutter SaaS
+### ⚡ CryptoMarket
 
-Ferramenta SaaS para **dividir vídeos automaticamente em partes iguais**.
+Marketplace **Lightning Network** com foco em transações peer-to-peer seguras via escrow multisig e sistema de slashing.
 
 Tecnologias:
 
-* Node.js
-* Express
-* FFmpeg
-* Frontend web
+* Rust (core de pagamentos)
+* TypeScript (orchestrator)
+* React Native (Expo)
+* Lightning Network
 
 ---
 
-### 🤖 Bots e Automações
+### 🔖 Versioner
 
-Criação de bots e ferramentas de automação para:
+CLI de **versionamento semântico** para projetos Node.js — automatiza bumps de versão, changelogs e tags git.
 
-* WhatsApp
-* monitoramento de oportunidades
-* scrapers
-* integrações de APIs
+Tecnologias:
+
+* Node.js + TypeScript
+* CLI (Commander)
+* Git automation
 
 ---
 
@@ -103,7 +91,7 @@ Criação de bots e ferramentas de automação para:
 
 ## 📫 Contato
 
-<a href="mailto:carlosdev2022@gmail.com">
+<a href="mailto:carlosbalak2002@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
